@@ -1,0 +1,33 @@
+First we have to create a package in the any java workspace
+Create a class of the main method
+Inside main method we write the logic 
+Save the file 
+Run the file 
+Give the Input 
+Output will we display
+Requirment:-
+Programming 
+Laguage:- Java
+Application:- eclipse
+
+We are use the Java Compiler as to run this code.
+
+
+Input format:
+Each Job has 3 pieces of info – Start Time,End Time and Profit
+The first line contains the number 
+of Jobs for the day. Say ‘n’. So there will be ’3n lines following as each job has 3 lines.
+Each of the next ‘3n’
+lines contains jobs in the following format:
+start_time
+end-time
+Profit
+start-time and end-time are in HHMM 24HRS format 
+i.e. 9am is 0900 and 9PM is 2100
+Constraints
+The number of jobs in the day is less than 100 i.e. 0<_n<_100
+Start-time is 
+always less than end time.
+Output format :-
+Program should return an array of 2 integers where 1st one is number of jobs 
+left and earnings of other employees.
